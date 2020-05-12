@@ -52,6 +52,6 @@ var config = {
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
         wish_message: "生日快乐",
-        story: "A BIRTHDAY BLESSING FOR YOU",
+        story: "一份祝福送给小肥仔^_^",
     }
 };
