@@ -47,7 +47,7 @@ var config = {
         turn_on: "小肥仔点这开始哟",
         play: "音乐",
         bannar_coming: "装饰",
-        balloons_flying: "好像少点东西了耶",
+        balloons_flying: "好像少点东西耶",
         cake_fadein: "蛋糕",
         light_candle: "蜡烛",
         wish_message: "生日快乐",
